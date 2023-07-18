@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"path": "../be-ct-upskilling-microservicios-main"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"DockerRun.DisableDockerrc": true,
+		"DockerRun.Containers": [
+			"6d295b2468b7",
+			"be64550e3e39",
+			"2bcb59807a99",
+			"749aa5283c54",
+			"bfc07ea93bd0"
+		]
+	}
+}
